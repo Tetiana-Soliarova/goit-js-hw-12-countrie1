@@ -8,7 +8,7 @@ import '@pnotify/core/dist/BrightTheme.css';
 import { defaults } from '@pnotify/core';
 import '@pnotify/core/dist/Material.css';
 
-import 'material-design-icons/iconfont/material-icons.css';
+//import 'material-design-icons/iconfont/material-icons.css';
 import { error } from '@pnotify/core';
 
 
