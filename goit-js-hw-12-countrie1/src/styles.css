@@ -13,8 +13,44 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
-  /*
-   * CSS image reference example.
-   */
-  background-image: url('./images/bg-pattern.png');
+  
+.search-country input{
+  margin-top: 50px;
+    color: rgb(17, 14, 14);
+    width: 490px;
+    height: 100px;
+    font-size: 50px;
+    border-color: rebeccapurple;
+  background-color: rgb(252, 247, 248);
+}
+.search-country{
+  margin-left: 10%;
+}
+
+input::placeholder{
+  font-size: 40px;
+  color: rgb(230, 230, 245);
+}
+
+.country-name{
+  font-size: 70px;
+  margin-left: 10%;
+}
+
+.countainer-cauntry{
+  display: flex;
+  padding-left: 170px;
+  font-size: 25px;
+  
+}
+
+.name-bold{
+ font-weight: bold; 
+}
+
+.card-img-flag{
+ 
+  height: 100px;
+padding-left: 400px;
+padding-right: 50px;
 }
